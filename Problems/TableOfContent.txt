@@ -1,0 +1,23 @@
+- Reverse String & Integers: This involves reversing the order of characters in a string or digits in an integer. For example, reversing "hello" would result in "olleh", and reversing the integer 123 would result in 321.
+
+- Palindrome: A palindrome is a word, phrase, number, or other sequence of characters that reads the same forwards and backward. For example, "radar" and the number 1221 are palindromes.
+
+- Max Char: This problem involves finding the most frequently occurring character in a given string.
+
+- Array Chunking: Array chunking involves splitting an array into smaller arrays of a specified size.
+
+- Title Case: Title case involves capitalizing the first letter of each word in a given string.
+
+- Anagrams: Anagrams are words or phrases formed by rearranging the letters of another word or phrase. Anagram problems typically ask you to determine whether two strings are anagrams of each other.
+
+- Count Vowels: This involves counting the number of vowels (a, e, i, o, u) in a given string.
+
+- Fizz Buzz: Fizz Buzz is a popular programming problem where you print numbers from 1 to n, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both 3 and 5 with "FizzBuzz".
+
+- Steps String Pattern: This pattern involves printing a string pattern where each line has a certain number of steps filled with a specific character.
+
+- Pyramid String Pattern: This pattern involves printing a pyramid-like string pattern where each line has an increasing number of characters.
+
+- Pyramid Matrix: This problem involves printing a pyramid-like pattern using numbers or characters arranged in a matrix format.
+
+- Pascal Pattern: The Pascal pattern refers to Pascal's triangle, a triangular array of binomial coefficients where each number is the sum of the two numbers directly above it. It's a common pattern used in mathematics and sometimes in programming exercises.
