@@ -121,7 +121,7 @@ class DoublyLinkedList {
   }
 
   remove(index) {
-    if (index === 0) return this.shift(value);
+    if (index === 0) return this.shift();
     if (index === this.length) return this.pop();
     if (index < 0 || index >= this.length) return undefined;
 
@@ -144,6 +144,7 @@ dll.push(6);
 // dll.unshift(14);
 dll.insert(0, 1);
 dll.insert(0, 3);
+dll;
 
 dll.remove(1);
 
