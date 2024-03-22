@@ -92,7 +92,7 @@ class DoublyLinkedList {
 
   insert(index, value) {
     if (index === 0) return this.unshift(value);
-    if ((index === this.length) === 0) return this.push(value);
+    if (index === this.length) return this.push(value);
 
     const newNode = new Node(value);
     const before = this.get(index - 1);
