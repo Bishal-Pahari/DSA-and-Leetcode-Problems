@@ -107,7 +107,7 @@ class DoublyLinkedList {
 
   remove(index) {
     if (index === 0) return this.shift(value);
-    if ((index === this.length) === 0) return this.pop();
+    if (index === this.length) return this.pop();
     if (index < 0 || index >= this.length) return undefined;
 
     const temp = this.get(index);
